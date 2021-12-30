@@ -1,4 +1,4 @@
-# Fibonacci-Flower---Javascript
+# Fibonacci-Flower
 
 
 
